@@ -8,3 +8,4 @@ The controller is setup to handle, get, post(item), post(category) patch, and de
 
 A get request on categories will deliver categories, each having its own nested items.
 
+Frontend repository: https://github.com/philipdemand/phase-3-frontend
